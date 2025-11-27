@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**damien-danglard/damien-danglard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps engineer passionate about automation, cloud infrastructure, and CI/CD pipelines.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cloud Platforms:** AWS, Azure, GCP
+- **Containers & Orchestration:** Docker, Kubernetes
+- **CI/CD:** GitHub Actions, Jenkins, GitLab CI
+- **Infrastructure as Code:** Terraform, Ansible, CloudFormation
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
+- **Scripting:** Bash, Python, Go
+
+### 🔭 What I'm working on
+
+- Building and maintaining scalable cloud infrastructure
+- Automating deployment pipelines and workflows
+- Implementing security best practices in DevOps processes
+
+### 🌱 What I'm learning
+
+- Advanced Kubernetes patterns
+- GitOps methodologies
+- Platform engineering
+
+### 💬 Ask me about
+
+- Cloud architecture and best practices
+- CI/CD pipeline optimization
+- Infrastructure automation
+- Container orchestration
+
+### 📫 How to reach me
+
+- GitHub: [@damien-danglard](https://github.com/damien-danglard)
+
+---
+
+⚡ *"Automate everything, measure everything, improve continuously."*
